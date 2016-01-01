@@ -1,6 +1,8 @@
 # reversi
 A simple reversi game with AI
 
+The current version is written in C and bulit on Windows
+
 The rules about reversi can be found on wikipedia:
 https://en.wikipedia.org/wiki/Reversi
 
